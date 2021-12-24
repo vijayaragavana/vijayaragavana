@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vijayaragavana/vijayaragavana/raw/master/cover-vijayaragavana.png" />
+  <img src="https://github.com/vijayaragavana/vijayaragavana/blob/main/cover-vijayaragavana.png" />
 </p>
 
 ```js

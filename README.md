@@ -7,14 +7,14 @@ import SoftwareDeveloper from 'vijayaragavana';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Vijayaragavan Ambalam';
-  title    = 'Software Engineer';
-  company  = 'Impiger Technologies | WFH';
+  title    = 'Architect';
+  company  = 'Impiger Technologies Pvt., Ltd.,';
   location = 'Chennai, IN';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Python', 'PHP', 'JavaScript', 'HTML'];
-  databases  = ['MySQL', 'PostgreSQL', 'MongoDB'];
+  languages  = ['Python', 'NodeJS', 'Java Spring Boot', 'PHP', 'JavaScript', 'HTML'];
+  databases  = ['MySQL', 'PostgreSQL', 'MongoDB', 'MSSQL'];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
 ```
